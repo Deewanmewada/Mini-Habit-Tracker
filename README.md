@@ -15,7 +15,7 @@ This is a simple React-based Mini Habit Tracker component that allows users to c
 1. Clone the repository:
 
 ```bash
-git clone <>
+git clone < https://github.com/Deewanmewada/Mini-habit-tracker >
 cd mini-habit-tracker
 ```
 
